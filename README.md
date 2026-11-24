@@ -1,5 +1,8 @@
 # algovoi-delegation-ref
 
+
+[![PyPI](https://img.shields.io/pypi/v/algovoi-delegation-ref)](https://pypi.org/project/algovoi-delegation-ref/)
+
 **Content-addressed delegation references** for the AlgoVoi substrate. An agent
 delegates authority to another agent for a scope and a validity window; the
 `delegation_ref` is the content hash of that delegation envelope, so any tamper
