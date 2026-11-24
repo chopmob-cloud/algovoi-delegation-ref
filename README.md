@@ -1,6 +1,5 @@
 # algovoi-delegation-ref
 
-
 [![PyPI](https://img.shields.io/pypi/v/algovoi-delegation-ref)](https://pypi.org/project/algovoi-delegation-ref/) [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 
 **Content-addressed delegation references** for the AlgoVoi substrate. An agent
